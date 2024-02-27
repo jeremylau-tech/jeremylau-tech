@@ -1,7 +1,7 @@
 <h1>Yolo Jeremy here! (@jeremylau-tech)<h1>
 
 👀 CS Student here. 
-📫 Reach me through jeremy@student.usm.my
+📫 Reach me through jeremylau.work@gmail.com
 
 <!---
 jeremylau-tech/jeremylau-tech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
